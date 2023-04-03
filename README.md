@@ -13,7 +13,7 @@ Template para iniciar projetos ReactJS - feito por Carlos Rodrigues.
 Crie um novo projeto React utilizando o seguinte comando:
 
 ```sh
-npx create-react-app [NomeDoProjeto] --template rocketstack-cdev
+npx create-react-app [NomeDoProjeto] --template rocketstack
 ```
 
 Espere a conclusão.
